@@ -1,0 +1,101 @@
+body {
+  background: #f0f2f5;
+}
+.left-container {
+    height: auto;
+    width: 505px;
+    margin: 173px auto auto 211px;
+    float: left;
+}
+.facebook-head {
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+  color: #1877f2;
+}
+.line {
+  font-size: 21px;
+  text-align: center;
+  height: auto;
+  width: 447px;
+}
+.right-container {
+  margin: 134px 284px auto auto;
+  background-color: #fff;
+  font-size: 28px;
+  width: 370px;
+  height: auto;
+  border-radius: 10px;
+  float: right;
+}
+.first {
+  margin: 15px;
+  padding: 11px;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 4px;
+  border: 1px solid #dddfe2;
+
+  font-size: 19px;
+}
+
+
+
+.log {
+  margin: 15px;
+  padding: 11px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 21px;
+  text-align: center;
+  background-color: #1877f2;
+  border: none;
+  border-radius: 5px;
+}
+.forgotten {
+  margin: 11px;
+  font-family: 'Rubik', sans-serif;
+  color: #1877f2;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+.forgotten .hover {
+
+  text-decoration: underline;
+}
+.new-account {
+  margin: 34px 72px;
+  padding: 12px 16px;
+  text-align: center;
+  background-color: #42b72a;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  border-radius: 5px;
+}
+.last-line {
+  margin: 11px;
+  font-size: 16px;
+}
+.footer {
+  background-color: #fff;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  align-items: center;
+}
+.inner {
+  align-self: center;
+
+}
+#English {
+  color: #737373;
+  width: 100px
+}
+.lang {
+
+}
+.plus-sign {
+  vertical-align: text-bottom;
+  height: 20px;
+  width: auto;
+}
